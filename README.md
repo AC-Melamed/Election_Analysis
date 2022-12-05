@@ -1,7 +1,7 @@
 # Election_Analysis
 Module 3
 
-##Project Overview
+## Project Overview
 This project involved a series of auditing tasks using the data from a recent local congressional election.  These tasks were as follows:
 
 1. Calculating the total number of votes cast
